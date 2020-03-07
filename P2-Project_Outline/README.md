@@ -28,6 +28,8 @@ Overview: In 1-2 paragraphs, provide an “elevator pitch” for your project. T
 3. MySQL
 4. Hibernate 
 5. Thymeleaf Templates
+6. Bootstrap
+7. Bootswatch 
 
 ### What I'll Have to Learn
 1. Starting a project from "scratch"
