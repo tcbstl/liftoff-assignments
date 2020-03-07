@@ -31,6 +31,10 @@ Overview: In 1-2 paragraphs, provide an “elevator pitch” for your project. T
 
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+1. Starting a project from "scratch"
+2. Using databases
+3. Sorting by categories as well as locations
+4. Styling/Designs - visually appealing
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/invite/b/EH604y7B/4c0bc49286da98d16a6284a4eda8a7ee/project-public
