@@ -21,4 +21,4 @@ https://trello.com/b/EH604y7B/project-public
 
 ### Project Repo Link
 
-https://github.com/tcbstl/liftoff-assignments
+https://github.com/tcbstl/travel_buddies
