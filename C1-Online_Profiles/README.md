@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+[GitHub Account](https://github.com/tcbstl)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[LinkedIn Profile](https://www.linkedin.com/in/tommy-balestreri/) 
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
